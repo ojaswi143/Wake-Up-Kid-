@@ -2,7 +2,7 @@
 Advanced Alarm Clock App
 
 # Basic Features Implemented :
-•Ability to set multiple alarms at a time.
+•Ability to set multiple alarms at a time. <br/>
 •Ability to dismiss the alarm or delete it before it rings.
 •Picking any ringtone from the phone for the purpose of alarm ringtone and being able to change the default ringtone anytime.
 •Notification alert whenever an alarm goes off.
