@@ -356,6 +356,10 @@ public class CustomAdapter extends ArrayAdapter<DataModel> implements View.OnCli
                             break;
                         case '*':
                             i3 = i1 * i2;
+                        case '%':
+                            i3=i1%i2;
+                        case '/':
+                            i3=i3/i2;
                             break;
                         default:
                     }
